@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    width: 100vw;
+    height: 500vh;
+    text-align: center;
+    background-color: pink;
+}   
+
+p{
+    font-size: xx-large;
+    padding: 0,9%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.9em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+    background-color: rgba(255, 68, 0, 0.651);
+}
+
+#noBtn{
+    position: absolute;
+    background-color: rgba(255, 68, 0, 0.678);
+}
+.foto{
+    width: 300px;
+}
